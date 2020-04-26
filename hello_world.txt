@@ -1,0 +1,6 @@
+
+ok, this is a line of text in the hello world .txt file. 
+I just typed $ edit hello_world.txt then this cmd line editor popped up. 
+
+
+
